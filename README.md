@@ -1,4 +1,4 @@
-# Welcome to the README of the Node.js Project for Coordination System
+# Node.js Project for Coordination System
 
 ## Project Description
 This project is developed to allow help seekers to submit requests and volunteers to volunteer to assist with these requests. The system provides a server-side API interface for managing various data within the system.
