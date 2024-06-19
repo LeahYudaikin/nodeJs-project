@@ -24,7 +24,6 @@ This project is developed to allow help seekers to submit requests and volunteer
 ## Data Structure
 - **Help Request**: Location, description, phone, status, number of people, priority code, volunteer code.
 - **Priorities**: Priority values (low, medium, high, critical).
-- **Status**: Waiting, in progress, completed.
 - **Volunteers**: First name, last name, phone, list of specialties.
 - **Location**: Location code, name.
 
